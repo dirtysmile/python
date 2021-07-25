@@ -163,7 +163,7 @@ import math
 
 #ceil
 print(math.ceil(5.1))   # x 이상의 수 중에서 가장 작은 정수
-
+print(math.ceil(6.3))
 #floor
 
 #pi

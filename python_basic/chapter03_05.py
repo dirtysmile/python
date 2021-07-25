@@ -82,7 +82,7 @@ print('b - ', list(b.values()))
 print('c - ', list(c.values()))
 print('d - ', list(d.values()))
 
-print('a - ', a.items())
+print('a item- ', a.items())
 print('b - ', b.items())
 print('c - ', c.items())
 print('d - ', d.items())

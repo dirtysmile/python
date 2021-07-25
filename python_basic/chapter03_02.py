@@ -98,7 +98,7 @@ print('y' in str_o1)
 print('n' in str_o1)
 print('P' not in str_o2)
 
-# 문자열 형 변환
+# 문자열 형 변환R%
 print(str(66))  # type 확인
 print(str(10.1))
 print(str(True))
